@@ -1,0 +1,43 @@
+/* common shared style */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+}
+.button-primary{
+    border-radius: 8px;
+    background: #E55473; 
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 20px 43px;
+}
+ /* header realated style */ 
+ .header{
+    background-color: rgba(229, 84, 115, 0.10);
+ }
+ .banner{
+    display: flex;
+    align-items: center;
+ }
+ .shop-heading{
+    color: #272727;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding: 197px 97px 32px 240px;
+ }
+ .shop-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 32px 240px;
+ }
+ #button-padding{
+   margin: 32px 628px 147px 240px;
+ }
