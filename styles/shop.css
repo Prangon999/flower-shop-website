@@ -115,3 +115,75 @@ main .button-primary{
    gap: 25px;
    justify-content: center;
 }
+/* input section style */
+.input-tittle{
+   color: #272727;
+   text-align: center;
+   font-size: 40px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+   padding: 110px 533px 16px ;
+}
+.input-description{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px;
+   padding:10px 605px 48px ;
+}
+#input-email-address{
+   border-radius: 8px;
+   background: #FFF;
+   width: 700px;
+   height: 14px;
+   padding: 35px 16px 121px 287px;
+}
+.input{
+   background-image: url('../Flower/Asset/Rectangle 9.png');
+   width: 2000px;
+   height: 700px;
+   display: block;
+   justify-content:space-around;
+   margin-bottom: 128px 240px; 
+   text-align: center
+   
+}
+.input-btn{
+   display: flex;
+   gap: 16px;
+}
+/* footer style started */
+.footer-item{
+   background-color:  #111010;
+}
+.footer-tittle{
+   color: #E55473;
+   font-size: 48px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+   padding: 128px 832px 24px;
+}
+.footer-description{
+   color: rgba(255, 255, 255, 0.90);
+   text-align: center;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px;
+   padding: 24px 648px 32px;
+}
+.footer-end{
+   color: rgba(255, 255, 255, 0.40);
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.shop-color{
+   background-color: #FFF;
+}
